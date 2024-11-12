@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 The Developer who enjoys coffee in the morning ☕, deep-dives into logics during daytime 🔥, and prepares the future at night 🌙
 
- I started my career as Full-stack Web Developer for ERP services like **ERP10** and **SAP**.
+ I started my career as JavaScript-based Full-stack Web Developer for ERP services like **ERP10** and **SAP**.
 
-Currently as Pythonista 🐍, I'm a Backend Developer mostly with Python Web Framework like Django and FastAPI. I also have experience with Full-stack Web Development using JavaScript.
+Currently as Pythonista 🐍, I'm a Python Backend Developer Django & FastAPI.
 
 My personal interests are... 👀
 * Backend code optimization & caching
