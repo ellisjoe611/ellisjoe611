@@ -66,6 +66,7 @@ My personal interests are... 👀
 
 
 
-## Github Stats
+## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellisjoe611&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellisjoe611&langs_count=4&theme=cobalt)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellisjoe611&langs_count=4&theme=cobalt)
