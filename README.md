@@ -19,19 +19,19 @@ Developer who enjoys coffee in the morning ☕, deep-dives into logics during da
 
 I started my career as full-stack web developer for enterprise services.
 
-Currently as Pythonista 🐍, I'm a backend developer with Python web frameworks like Django & FastAPI.
+Currently as Pythonista 🐍, I'm working as a backend developer with Python web framework like Django.
 
 My personal interests are... 👀
-* Backend code optimization & caching
+* Backend lower latency with optimization & caching
 * Infra management
 * AI serving services (ex. LLM)
 
 
 
 ## Careers
-* **[2020.08 ~ 2021.11]** Full-stack Developer of **[ERP10](https://www.douzone.com/product/erp10.jsp)** B2B services at **Douzone Bizon**
-* **[2022.12 ~ 2023.07]** Full-stack Developer of **[SAP ByDesign](https://www.sap-bydesign.com)** B2B services at **BSG Partners**
-* **[2023.07 ~ ]** Backend Developer of **[Vehicle Labeling](https://www.aimmo.ai/services/ai-data-managed)** B2B services at **Aimmo**
+* **[2020.08 ~ 2021.11]** Full-stack web developer of **[ERP10](https://www.douzone.com/product/erp10.jsp)** B2B services at **Douzone Bizon**
+* **[2022.12 ~ 2023.07]** Full-stack web developer of **[SAP ByDesign](https://www.sap-bydesign.com)** B2B services at **BSG Partners**
+* **[2023.07 ~ ]** Backend developer of **[Object Labeling](https://www.aimmo.ai/services/ai-data-managed)** B2B services at **Aimmo**
 
 
 
