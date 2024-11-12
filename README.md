@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-The Developer who enjoys coffee in the morning ☕, deep-dives into logics during daytime 🔥, and prepares the future at night 🌙
+Developer who enjoys coffee in the morning ☕, deep-dives into logics during daytime 🔥, and prepares the future at night 🌙
 
- I started my career as JavaScript-based Full-stack Web Developer for ERP services like **ERP10** and **SAP**.
+I started my career as full-stack Web Developer for enterprise services.
 
-Currently as Pythonista 🐍, I'm a Python Backend Developer Django & FastAPI.
+Currently as Pythonista 🐍, I'm a backend developer with Python web frameworks like Django & FastAPI.
 
 My personal interests are... 👀
 * Backend code optimization & caching
