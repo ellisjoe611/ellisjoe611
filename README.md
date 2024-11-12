@@ -63,10 +63,3 @@ My personal interests are... 👀
 <img src="./logos/docker.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
 <img src="./logos/aws.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
 <br/>
-
-
-
-## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellisjoe611&show_icons=true&theme=cobalt)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellisjoe611&langs_count=4&theme=cobalt)
