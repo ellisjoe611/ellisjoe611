@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Developer who enjoys coffee in the morning ☕, deep-dives into logics during daytime 🔥, and prepares the future at night 🌙
 
-I started my career as full-stack Web Developer for enterprise services.
+I started my career as full-stack web developer for enterprise services.
 
 Currently as Pythonista 🐍, I'm a backend developer with Python web frameworks like Django & FastAPI.
 
