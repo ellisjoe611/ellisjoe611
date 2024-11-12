@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
 **ellisjoe611/ellisjoe611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,58 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+The Developer who enjoys coffee in the morning ☕, deep-dives into logics during daytime 🔥, and prepares the future at night 🌙
+
+ I started my career as Full-stack Web Developer for ERP services like **ERP10** and **SAP**.
+
+Currently as Pythonista 🐍, I'm a Backend Developer mostly with Python Web Framework like Django and FastAPI. I also have experience with Full-stack Web Development using JavaScript.
+
+My personal interests are... 👀
+* Backend code optimization & caching
+* Infra management
+* AI serving services (ex. LLM)
+
+
+
+## Careers
+* **[2020.08 ~ 2021.11]** Full-stack Developer of **[ERP10](https://www.douzone.com/product/erp10.jsp)** B2B services at **Douzone Bizon**
+* **[2022.12 ~ 2023.07]** Full-stack Developer of **[SAP ByDesign](https://www.sap-bydesign.com)** B2B services at **BSG Partners**
+* **[2023.07 ~ ]** Backend Developer of **[Vehicle Labeling](https://www.aimmo.ai/services/ai-data-managed)** B2B services at **Aimmo**
+
+
+
+## Specs
+**[Languages]**
+<br/>
+<img src="./logos/python.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
+<img src="./logos/javascript.png" height="30px" style="mamargin: 5px 2px 0px 0px;"/>
+<img src="./logos/kotlin.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
+<br/>
+
+**[Frameworks]**
+<br/>
+<img src="./logos/django.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
+<img src="./logos/fastapi.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
+<img src="./logos/flask.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
+<img src="./logos/react.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
+<br/>
+
+**[Databases]**
+<br/>
+<img src="./logos/mysql.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
+<img src="./logos/mongodb.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
+<img src="./logos/oracle.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
+<br/>
+
+**[Infras]**
+<br/>
+<img src="./logos/docker.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
+<img src="./logos/aws.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
+<br/>
+
+
+
+## Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellisjoe611&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellisjoe611&langs_count=4&theme=cobalt)  
