@@ -43,11 +43,11 @@ My personal interests are... 👀
 <img src="./logos/kotlin.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
 <br/>
 
-**[Frameworks]**
+**[Frameworks & Libraries]**
 <br/>
 <img src="./logos/django.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
 <img src="./logos/fastapi.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
-<img src="./logos/flask.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
+<img src="./logos/flask.png" height="30px" style="margin: 5px 2px 0px 0px; background-color: white;"/>
 <img src="./logos/react.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
 <br/>
 
@@ -55,7 +55,7 @@ My personal interests are... 👀
 <br/>
 <img src="./logos/mysql.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
 <img src="./logos/mongodb.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
-<img src="./logos/oracle.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
+<img src="./logos/redis.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
 <br/>
 
 **[Infras]**
