@@ -24,7 +24,7 @@ Currently as Pythonista 🐍, I'm working as a backend developer with Python web
 My personal interests are... 👀
 * Backend lower latency with optimization & caching
 * Infra management
-* AI serving services (ex. LLM)
+* AI-related services (ex. LLM)
 
 
 
