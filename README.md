@@ -47,7 +47,7 @@ My personal interests are... 👀
 <br/>
 <img src="./logos/django.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
 <img src="./logos/fastapi.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
-<img src="./logos/flask.png" height="30px" style="margin: 5px 2px 0px 0px; background-color: white;"/>
+<img src="./logos/flask.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
 <img src="./logos/react.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
 <br/>
 
