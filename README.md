@@ -19,7 +19,7 @@ Developer who enjoys coffee in the morning ☕, deep-dives into logics during da
 
 I started my career as full-stack web developer for enterprise services.
 
-Currently as Pythonista 🐍, I'm working as a backend developer with Python web framework like Django.
+Currently as Pythonista 🐍, I'm a backend developer mainly with Python web framework like Django, and other languages like Go ⚡ and JavaScript 📜 are also my favorite!
 
 My personal interests are... 👀
 * Backend lower latency with optimization & caching
@@ -39,7 +39,7 @@ My personal interests are... 👀
 **[Languages]**
 <br/>
 <img src="./logos/python.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
-<img src="./logos/javascript.png" height="30px" style="mamargin: 5px 2px 0px 0px;"/>
+<img src="./logos/javascript.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
 <img src="./logos/go.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
 <br/>
 
