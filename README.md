@@ -40,7 +40,7 @@ My personal interests are... 👀
 <br/>
 <img src="./logos/python.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
 <img src="./logos/javascript.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
-<!-- <img src="./logos/kotlin.png" height="30px" style="margin: 5px 2px 0px 0px;"/> -->
+<img src="./logos/kotlin.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
 <br/>
 
 **[Frameworks & Libraries]**
