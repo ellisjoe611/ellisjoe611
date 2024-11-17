@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Developer who enjoys coffee in the morning ☕, deep-dives into logics during daytime 🔥, and prepares the future at night 🌙
 
 I started my career as full-stack web developer for enterprise services.<br/>
-Currently as Pythonista 🐍, I'm a backend developer mainly with Python web framework like FastAPI.<br/>
+Currently as Pythonista 🐍, I'm a backend developer mainly with Python web frameworks like Django & FastAPI.<br/>
 Any other languages like JavaScript 📜 and Kotlin(Java) ☕ are also my favorite!
 
 My personal interests are... 👀
@@ -45,8 +45,8 @@ My personal interests are... 👀
 
 **[Frameworks & Libraries]**
 <br/>
-<img src="./logos/fastapi.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
 <img src="./logos/django.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
+<img src="./logos/fastapi.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
 <img src="./logos/react.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
 <br/>
 
