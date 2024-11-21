@@ -24,14 +24,14 @@ Any other languages like JavaScript 📜 and Kotlin(Java) ☕ are also my favori
 My personal interests are... 👀
 * Backend lower latency with optimization & caching
 * Infra management
-* AI-related services (ex. LLM)
+* AI-related services (ex. AI Prompt 👀, RAG 🤔)
 
 
 
 ## Careers
 * **[2020.08 ~ 2021.11]** Full-stack web developer of **[ERP10](https://www.douzone.com/product/erp10.jsp)** B2B services at **Douzone Bizon**
 * **[2022.12 ~ 2023.07]** Full-stack web developer of **[SAP ByDesign](https://www.sap-bydesign.com)** B2B services at **BSG Partners**
-* **[2023.07 ~ ]** Backend developer of **[Object Labeling](https://www.aimmo.ai/services/ai-data-managed)** B2B services at **Aimmo**
+* **[2023.07 ~ 2024.12]** Backend developer of **[Object Labeling](https://www.aimmo.ai/services/ai-data-managed)** B2B services at **Aimmo**
 
 
 
