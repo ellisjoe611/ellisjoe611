@@ -23,7 +23,7 @@ Any other languages like JavaScript 📜 and Kotlin(Java) ☕ are also my favori
 
 My personal interests are... 👀
 * Backend lower latency ⏱️ with optimization & caching
-* AI-related techs (ex. AI Prompting , RAG 🤔)
+* AI-related techs (ex. AI Prompting 🤔, RAG 🤔)
 * Infra management
 
 
