@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Developer who enjoys coffee in the morning ☕, deep-dives into logics during daytime 🔥, and prepares the future at night 🌙
+Developer who enjoys coffee in the morning ☕, deep-dives into logics during daytime 🔥, and prepares better tomorrow at night 🌙
 
 I started my career as full-stack web developer for enterprise services.<br/>
 Currently as Pythonista 🐍, I'm a backend developer mainly with **Python web frameworks** like Django & FastAPI.<br/>
