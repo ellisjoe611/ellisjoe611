@@ -29,9 +29,9 @@ My personal interests are... 👀
 
 
 ## Careers
-* **[2020.08 ~ 2021.11]** Full-stack web developer of **[ERP10](https://www.douzone.com/product/erp10.jsp)** B2B services at **Douzone Bizon**
-* **[2022.12 ~ 2023.07]** Full-stack web developer of **[SAP ByDesign](https://www.sap-bydesign.com)** B2B services at **BSG Partners**
-* **[2023.07 ~ 2024.12]** Backend developer of **[Object Labeling](https://www.aimmo.ai/services/ai-data-managed)** B2B services at **Aimmo**
+* **[2020.08 ~ 2021.11]** Full-stack web developer of **[ERP10](https://www.douzone.com/product/erp10.jsp)** enterprise services at **Douzone Bizon**
+* **[2022.12 ~ 2023.07]** Full-stack web developer of **[SAP ByDesign](https://www.sap-bydesign.com)** enterprise services at **BSG Partners**
+* **[2023.07 ~ 2024.12]** Backend developer of **[Object Labeling](https://www.aimmo.ai/services/ai-data-managed)** platform services at **Aimmo**
 
 
 
