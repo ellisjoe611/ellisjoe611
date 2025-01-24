@@ -17,14 +17,15 @@ Here are some ideas to get you started:
 
 Developer who enjoys coffee in the morning ☕, deep-dives into logics during daytime 🔥, and prepares better tomorrow at night 🌙
 
-I started my career as full-stack web developer for enterprise services.<br/>
-Currently as Pythonista 🐍, I'm a backend developer mainly with **Python web frameworks** like Django & FastAPI.<br/>
-Any other languages like JavaScript 📜 and Kotlin(Java) ☕ are also my favorite!
+I started my career as web developer for ERP, and now working as backend developer for AI data.<br/>
+Currently as Pythonista 🐍, my main tech is **Python web frameworks** like Django & FastAPI.<br/>
+And I also have experience with JavaScript 📜 and Java ☕!
 
 My personal interests are... 👀
-* Backend lower latency ⏱️ with optimization & caching
-* AI-related techs (ex. AI Prompting 🤔, RAG 🤔)
-* Infra management
+* Backend lower latency ⏳ with optimization & caching
+* Background tasks ⏱️ like Celery
+* Data processing 🗂️
+* AI-related techs (ex. Prompting 🤔, AI Agent 🤔)
 
 
 
