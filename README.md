@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 Developer who enjoys coffee in the morning ☕, deep-dives into logics during daytime 🔥, and prepares better tomorrow at night 🌙
 
-I started my career as web developer for ERP, and now working as backend developer for AI-related data.<br/>
-My main tech is backend development with **Python web frameworks** 🐍 like Django & FastAPI.<br/>
-I also have experience with JavaScript 📜 and Java ☕ for full-stack development.
+Started as web developer for ERP, I'm a **backend developer** for AI-related data, and a wannabe MLOps engineer later on!<br/>
+I mostly use **Python web frameworks** 🐍 like Django & FastAPI, but also have experience with JavaScript 📜 and Java ☕.<br/>
 
 My personal interests are... 👀
 * Backend lower latency ⏳ with optimization & caching
