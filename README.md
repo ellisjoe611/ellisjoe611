@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 Developer who enjoys coffee in the morning ☕, deep-dives into logics during daytime 🔥, and prepares better tomorrow at night 🌙
 
-A former web full-stack developer, now a **backend developer** for AI-related services, and a wannabe MLOps engineer (hopefully...😅)<br/>
-Most of the time, I use **Python backend frameworks** 🐍 like Django & FastAPI.<br/>
+A former web full-stack developer, now a **backend developer**, and a wannabe MLOps engineer (hopefully...😅)<br/>
+Most of the time, I use **Python backend frameworks** 🐍 like Django & FastAPI for AI-related services.<br/>
 But I also have experience with JavaScript(Node.js) 📜 and Java(Spring) ☕.<br/>
 
 My personal interests are... 👀
