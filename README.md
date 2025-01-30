@@ -23,6 +23,7 @@ But I also have experience with JavaScript(Node.js) 📜 and Java(Spring) ☕.<b
 
 My personal interests are... 👀
 * Backend lower latency ⏳ with optimization & caching
+* Latest updates of Python 🐍
 * Background tasks ⏱️ like Celery
 * Data processing 🗂️
 * AI-related techs (ex. Prompting 🤔, AI Agent 🤔)
