@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 Developer who enjoys coffee in the morning ☕, deep-dives into logics during daytime 🔥, and prepares better tomorrow at night 🌙
 
-Started as Web Developer, currently working as **Backend Developer**<br/>
+Started as Web Developer, currently working as **Backend Developer** for better APIs & streaming ⚡️<br/>
 
-## Main interests 👀
+## Main Topics 👀
 
 - Backend with lower latency ⏳ with optimization & caching
 - Latest updates of Python 🐍
@@ -39,6 +39,7 @@ Started as Web Developer, currently working as **Backend Developer**<br/>
 <img src="./logos/fastapi.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
 <img src="./logos/sqlalchemy.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
 <img src="./logos/pytest.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
+<img src="./logos/uv.png" height="30px" style="margin: 5px 2px 0px 0px;"/>
 <br/>
 
 **[Databases]**
