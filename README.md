@@ -51,11 +51,12 @@ Started as Web Developer, currently working as **Backend Developer** for better 
 **[Databases]**
 <br/>
 <img src="https://img.shields.io/badge/postgresql-grey?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1"/>
+<img src="https://img.shields.io/badge/mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248"/>
 <img src="https://img.shields.io/badge/redis-grey?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D"/>
 <br/>
 
 **[CI/CD]**
 <br/>
-<img src="https://img.shields.io/badge/github%20actions-grey?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=2088FF"/>
+<img src="https://img.shields.io/badge/github_actions-grey?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=2088FF"/>
 <img src="https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED"/>
 <br/>
