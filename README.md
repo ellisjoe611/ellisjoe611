@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Developer who enjoys coffee in the morning ☕, deep-dives into logics during daytime 🔥, and prepares better tomorrow at night 🌙
 
-Started as Web Developer, currently working as **Backend Developer** for better APIs & streaming ⚡️<br/>
+Started as Web Developer, currently working as **Backend Developer** (mostly with Python 🐍) for better APIs & streaming ⚡️<br/>
 
 ## Main Topics 👀
 
@@ -43,9 +43,9 @@ Started as Web Developer, currently working as **Backend Developer** for better 
 **[Frameworks & Libraries]**
 <br/>
 <img src="https://img.shields.io/badge/fastapi-grey?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688"/>
+<img src="https://img.shields.io/badge/celery-grey?style=for-the-badge&logo=celery&logoColor=white&labelColor=37814A"/>
 <img src="https://img.shields.io/badge/sqlalchemy-grey?style=for-the-badge&logo=sqlalchemy&logoColor=white&labelColor=D71F00"/>
 <img src="https://img.shields.io/badge/langchain-grey?style=for-the-badge&logo=langchain&logoColor=white&labelColor=1C3C3C"/>
-<img src="https://img.shields.io/badge/pytest-grey?style=for-the-badge&logo=pytest&logoColor=white&labelColor=0A9EDC"/>
 <br/>
 
 **[Databases]**
